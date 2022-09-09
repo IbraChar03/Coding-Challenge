@@ -1,0 +1,123 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+.cid{
+  color:green;
+}
+
+.container{
+
+  width: 1000px;
+  margin: auto;
+}
+
+.boxtraspa{
+  margin: 100px;
+  width: 1000px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 1px solid black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.logo{
+  width: 300px;
+  margin-left: 350px;
+}
+
+.scritta{
+  color: lime;
+  font-size: 50px;
+  margin-left: 150px;
+}
+
+.row{
+  border: 15px solid lime;
+  width: 700px;
+  margin-left: 130px;
+  background-color: lime;
+  text-align: center;
+}
+
+.nome1{
+  font-size: 30px;
+  color: white;
+}
+
+.box1{
+  margin-left: 100px;
+}
+
+.via1{
+  color:white;
+  margin-left: 100px;
+}
+
+.carica1{
+  color:white;
+  margin-left: 100px;
+}
+
+.row2{
+  width: 300px;
+  border: 10px solid orange;
+  background-color: orange;
+  border-radius: 10px 10px 10px 10px;
+  padding: 5px;
+  margin-left: 100px;
+}
+
+.box2{
+  margin-left: 100px;
+}
+
+.nome2{
+  font-size: 30px;
+  color: white;
+}
+.via2{
+  color:white;
+  margin-left: 100px;
+}
+
+.carica2{
+  color:white;
+  margin-left: 100px;
+}
+
+.row3{
+  width: 600px;
+  border: 10px solid lime;
+  background-color: lime;
+  border-radius: 10px 10px 10px 10px;
+  padding: 5px;
+  margin-left: 100px;
+}
+
+.box3{
+  margin-left: 100px;
+}
+
+.nome3{
+  font-size: 30px;
+  color: white;
+}
+
+.via3{
+  color:white;
+  margin-left: 100px;
+}
+
+.carica3{
+  color:white;
+  margin-left: 100px;
+}
+
+.row4{
+  width: 150px;
+  border: 10px solid red;
+  background-color: red;
+  border-radius: 10px 10px 10px 10px;
+  padding: 5px;
+  margin-left: 100px;
+}
